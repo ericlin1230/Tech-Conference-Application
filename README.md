@@ -1,7 +1,10 @@
 # Tech Conference Application
 
+Tech Conference Application is a project for CSC207 Software Design course at University of Toronto during the Fall 2020 Semester. The application allow users to sign up for accounts as different user types such as Organizer, Speaker, User, VIP. Each user types contain different functions of their own. Organizers are able to create and manage events and rooms, speakers are able to speak at different events, users and VIPs are able to sign up at different events. Every user has the ability to message and add other users to their contacts. The data is stored locally and PDF output of the event schedule and room is available.
+
 ## Main Contributions:
 - Eric Lin: Event functionality and program compilation
+         * erichungyu.lin@mail.utoronto.ca
 - Hao Shen: User functionality
 - Ryan Wang: Messaging/Request functionality
 - Temilade Adeleye: Data saving features
