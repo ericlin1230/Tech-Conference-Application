@@ -50,8 +50,8 @@ event
 
 Notes on how to add maven dependencies to run the ConvertToPDF.java class:
 1. Add maven support
-- Right-click your project and select Add Framework Support
-- Select Maven from the options in the dialog and click OK
+         * Right-click your project and select Add Framework Support
+         * Select Maven from the options in the dialog and click OK
 
 2. Open pom.xml
 
