@@ -16,7 +16,7 @@ Tech Conference Application is a project for CSC207 Software Design course at Un
 
 ## Documentation
 
-Documentation can be accessed through javadoc/index.html
+Documentation can be accessed through the gh-pages branch or at https://restia1230.github.io/Tech-Conference-Application/
 
 ## Installation
 
