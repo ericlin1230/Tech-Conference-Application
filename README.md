@@ -120,4 +120,4 @@ Main Contributions:
 - Hao Shen: User functionality
 - Ryan Wang: Messaging/Request functionality
 - Temilade Adeleye: Data saving features
-- Zihao Shen: Room functionality
+- Zihao Shen: Room functionality and UI design
