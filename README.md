@@ -1,8 +1,6 @@
 # Tech Conference Application
- 
-NOTE: Commented code has been saved for future usage
+
 NOTE: Documentation can be accessed through javadoc/index.html
-NOTE: Project directory must be phase1 such that src is directly accessible (gateway path: src\main\java\gateway\...)
 ---------------------------------------------------
 How to install and run the program.
 
