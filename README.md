@@ -1,13 +1,13 @@
 # Tech Conference Application
 
-NOTE: Documentation can be accessed through javadoc/index.html
----------------------------------------------------
 ## Main Contributions:
 - Eric Lin: Event functionality and program compilation
 - Hao Shen: User functionality
 - Ryan Wang: Messaging/Request functionality
 - Temilade Adeleye: Data saving features
 - Zihao Shen: Room functionality and UI design
+
+NOTE: Documentation can be accessed through javadoc/index.html
 
 How to install and run the program.
 
