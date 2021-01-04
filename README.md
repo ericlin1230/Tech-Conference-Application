@@ -115,4 +115,9 @@ Notes on how to add maven dependencies to run the ConvertToPDF.java class:
 5. The maven dependencies should have been added to the project by now,
 but to confirm check the external libraries there should be maven external libraries.
 
-
+Main Contributions:
+- Eric Lin: Event functionality and program compilation
+- Hao Shen: User functionality
+- Ryan Wang: Messaging/Request functionality
+- Temilade Adeleye: Data saving features
+- Zihao Shen: Room functionality
