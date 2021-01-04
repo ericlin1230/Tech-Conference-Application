@@ -20,19 +20,19 @@ Documentation can be accessed through the gh-pages branch or at https://restia12
 
 ## Installation
 
-How to install and run the program.
+How to install and run the program in IntelliJ.
 
 Instructions to try out the functionality.
 
 Input instructions are displayed within the program, this readme only contains the basics to running the program
 
-How to run the program:
+### How to run the program:
 1. To run the program, run the main class
 
 2. For best results RESET the database the first time you run the program.
 
 
-Notes on user creation:
+### Notes on user creation:
 1. Username must be greater than 5 characters and cannot have a space
 
 2. Speakers are made through an option in the organizer
@@ -40,7 +40,7 @@ Notes on user creation:
 3. The name and password can be blank if you wish
 
 
-Notes on creating events:
+### Notes on creating events:
 1. Can only be done by organizers
 
 2. The default event begins at eventID: 1 and then it increases as you make more events,
@@ -57,7 +57,7 @@ before making your second event, the second event will have eventID 2
 6. In the phase 1 version the end time does not matter, as all events are considered 1 hour long regardless
 
 
-Notes on messaging:
+### Notes on messaging:
 1. Everyone is able to message everyone without restrictions, should you know the username of the other person
 
 2. You are suggested certain recipients such as those on your contacts list, or attending/speaking at the same
@@ -66,7 +66,7 @@ event
 3. Organizers can see all users and can mass message various groups
 
 
-Notes on how to add maven dependencies to run the ConvertToPDF.java class:
+### Notes on how to add maven dependencies to run the ConvertToPDF.java class:
 1. Add maven support
 - Right-click your project and select Add Framework Support
 - Select Maven from the options in the dialog and click OK
