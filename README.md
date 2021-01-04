@@ -4,7 +4,7 @@ Tech Conference Application is a project for CSC207 Software Design course at Un
 
 ## Main Contributions:
 * Eric Lin: Event functionality and program compilation
-         * erichungyu.lin@mail.utoronto.ca
+  * erichungyu.lin@mail.utoronto.ca
 - Hao Shen: User functionality
 - Ryan Wang: Messaging/Request functionality
 - Temilade Adeleye: Data saving features
